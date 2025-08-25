@@ -16,9 +16,11 @@
           {
             "group": "Plan",
             "pages": [
-              "index",
+              "index"
             ]
-          },
+          }
+        ]
+        },
       {
         "tab": "API reference",
         "groups": [
